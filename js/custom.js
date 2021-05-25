@@ -34,7 +34,7 @@
 
   $(function () {
     typed.typed({
-      strings: ["Sean Wu.", "an Engineer.", "Grad student."],
+      strings: ["Sean Wu.", "a Software Engineer.", "New Grad."],
       typeSpeed: 100,
       loop: true,
     });
